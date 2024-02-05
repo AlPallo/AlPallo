@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center"><b> Hi there 👋 <br> I'm Alex 👨‍💻 </h1></b>
 
-<!--
-**AlPallo/AlPallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+## <b>I'm a full-stack software engineer based in the United States ☀️</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm excited about combining my passion for problem-solving and creativity by developing efficient and user-friendly web applications. I’m an adaptable, collaborative, and determined software engineer who loves learning new tools, programming languages, and frameworks to create useful software for users. 
+
+<br><hr>
+## My Toolbox 🛠️🧰
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,gitlab,py,cs,js,HTML,CSS,bootstrap,nextjs,fastapi,nodejs,opencv,postgres,react,angular,redux,django,docker,tailwind,visualstudio,vscode," />
+  </a>
+</p>
