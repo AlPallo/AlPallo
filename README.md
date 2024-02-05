@@ -10,7 +10,5 @@ I'm excited about combining my passion for problem-solving and creativity by dev
 ## My Toolbox 🛠️🧰
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,py,cs,js,HTML,CSS,bootstrap,nextjs,fastapi,nodejs,opencv,postgres,react,angular,redux,django,docker,tailwind,visualstudio,vscode," />
-  </a>
+    <img src="https://skillicons.dev/icons?i=git,gitlab,py,cs,js,HTML,css,bootstrap,nextjs,fastapi,nodejs,opencv,postgres,react,angular,redux,django,docker,tailwind,visualstudio,vscode," />
 </p>
